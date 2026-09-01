@@ -11,4 +11,7 @@ Service Quality Evaluation: Pinpoints core rating gaps in cleanliness and value 
 
 Host Trust & Engagement: Evaluates review seasonality patterns and host credibility signals, showing over 66% verified host identities.
 
+Show what the dashboard looks like,
+                                ![Dashboard Preview](https://github.com/Sathish29001/Global-Airbnb-Performance-Analysis/blob/main/Global%20Airbnb%20Performance%20Analysis.pdf)
+
 
